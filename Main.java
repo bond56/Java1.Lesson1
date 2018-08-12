@@ -1,3 +1,9 @@
+/**
+ * Java1.Lesson_1. HomeWork_1
+ * @author Evdokimov Maksim
+ * @version 12.08.18
+ */
+
 package com.company;
 
 import java.util.Scanner;
@@ -7,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         int a, d = 10;
         a = d;
-        byte b = -2;
+        byte b = 2;
         long c = 100;
         char ch = '1';
         short s = 15;
