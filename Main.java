@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         int a, d = 10;
         a = d;
-        byte b = 2;
+        byte b = -4;
         long c = 100;
         char ch = '1';
         short s = 15;
